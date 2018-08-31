@@ -164,6 +164,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="App_Data\ContosoUniversity1.mdf" />
+    <Content Include="App_Data\ContosoUniversity1_log.ldf">
+      <DependentUpon>ContosoUniversity1.mdf</DependentUpon>
+    </Content>
     <Content Include="bin\Antlr3.Runtime.dll" />
     <Content Include="bin\Antlr3.Runtime.pdb" />
     <Content Include="bin\ContosoUniversity.dll" />
@@ -282,7 +286,6 @@
     <Content Include="Views\Students\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,1 @@
+﻿update Student set EmailAddress=''+dbo.Student.FirstMidName +'-'+dbo.Student.LastName+'@mvc.com'
