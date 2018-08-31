@@ -1,1 +1,3 @@
 ﻿first Run with no errors
+
+Next you'll create entity classes for the Contoso University application.
