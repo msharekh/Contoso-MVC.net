@@ -1,0 +1,7 @@
+C:\Users\msh\Source\Repos\ContosoUniversity
+
+Contoso University
+
+Add menu entries for Students, Courses, Instructors, and Departments
+
+replace the text about ASP.NET and MVC with text about this application

@@ -3,3 +3,5 @@
 ################################################################################
 
 /ContosoUniversity/obj/Debug
+/ContosoUniversity/bin
+/ContosoUniversity/bin/roslyn
