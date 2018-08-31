@@ -1,7 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/ContosoUniversity/obj/Debug
-/ContosoUniversity/bin
-/ContosoUniversity/bin/roslyn
